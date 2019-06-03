@@ -1,0 +1,6 @@
+name: Device Detector
+version: 1.0
+description: Statamic port of matomo-org/device-detector
+developer: Travis statamic
+developer_url: http://travisrobie.me
+commercial: false

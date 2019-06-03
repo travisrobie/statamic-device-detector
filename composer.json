@@ -1,0 +1,6 @@
+{
+    "name": "travis-robie/devicedetector",
+    "require": {
+      "piwik/device-detector": "3.11.7"
+    }
+}
