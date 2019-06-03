@@ -11,8 +11,8 @@ You may output or use as a conditional the OS, device, brand and model of the cl
 2.  Run `php please update:addons` at the root of your statamic project.
 
 ## Usage
-`{{ device_detector:client_info }}`
-`{{ device_detector:os_info }}`
-`{{ device_detector:device }}` - Returns 'desktop', 'tablet', 'smartphone' etc.
-`{{ device_detector:brand }}`
+`{{ device_detector:client_info }}`  
+`{{ device_detector:os_info }}`  
+`{{ device_detector:device }}` - Returns 'desktop', 'tablet', 'smartphone' etc.  
+`{{ device_detector:brand }}`  
 `{{ device_detector:model }}`
